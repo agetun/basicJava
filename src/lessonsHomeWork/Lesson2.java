@@ -1,4 +1,6 @@
-public class Main {
+package lessonsHomeWork;
+
+public class Lesson2 {
 
     public static void main(String[] args) {
 
