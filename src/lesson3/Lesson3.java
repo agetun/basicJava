@@ -40,7 +40,7 @@ public class Lesson3 {
     }
 
     public static void printText (int i, int text) {
-        System.out.println("Result sum " + i + " = " +text);
+        System.out.println("Result sum " + i +  " = " + text);
 
     }
 }

@@ -15,6 +15,9 @@ public class EnterPerson {
         person2.age = 30;
         person2.town = "Riga";
 
+        person1.age=26;
+        person1.town="London";
+
 
 
 

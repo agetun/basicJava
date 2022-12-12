@@ -7,6 +7,14 @@ public class Lesson1 {
 
             System.out.println(text);
 
+            String t1 = "Hello, World!";
+
+            System.out.println(t1);
+
+            t1= "Hello!!!";
+
+            System.out.println(t1);
+
 
         }
 

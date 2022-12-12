@@ -9,6 +9,10 @@ public class LessonVarExample {
 
         int z = x + y;
 
+        int sqr = x*x*x;
+
+        System.out.println((sqr));
+
     /*
     Comment1
     Comment2
@@ -32,6 +36,13 @@ public class LessonVarExample {
         System.out.println(b1 & b2);
         System.out.println(b1 || b2);
         System.out.println(!b1);
+
+        int a = 12;
+        int b = 4;
+
+        double res = a / b;
+
+        System.out.println(res);
 
         System.out.println("X = " + x);
         System.out.println("Result = " + result);
