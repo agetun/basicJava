@@ -1,6 +1,8 @@
-package lessonsHomeWork;
+package lessons1HomeWork;
 
-public class Lesson2 {
+import java.net.SocketOption;
+
+public class Lesson1HW {
 
     public static void main(String[] args) {
 
@@ -41,6 +43,13 @@ public class Lesson2 {
         System.out.println("Eight " + sym.charAt(1));
         System.out.println("Nine  " + sym.charAt(2));
 
+
+        int x0 = 365;
+        int x1 = x0/100;
+        int x2 = x0/10;
+
+        System.out.println(x1);
+        System.out.println(x2);
 
 
 

@@ -1,3 +1,5 @@
+package lesson2;
+
 public class LessonVarExample {
 
     public static void main(String[] args) {
