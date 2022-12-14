@@ -1,8 +1,6 @@
 
 
-package lesson2;
-
-import org.w3c.dom.ls.LSOutput;
+package lessons.lesson2;
 
 public class Lesson2InputFromKeyboard {
 

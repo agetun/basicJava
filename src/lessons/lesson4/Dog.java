@@ -1,6 +1,4 @@
-package lesson4;
-
-import java.util.Scanner;
+package lessons.lesson4;
 
 public class Dog {
         String name;

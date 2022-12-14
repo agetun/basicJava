@@ -1,6 +1,4 @@
-package lessons1HomeWork;
-
-import java.net.SocketOption;
+package lessons.lessons1HomeWork;
 
 public class Lesson1HW {
 
