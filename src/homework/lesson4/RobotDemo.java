@@ -4,7 +4,8 @@ public class RobotDemo {
 
     public static void main(String[] args) {
 
-        Robot myRobot = new Robot();
+        Robot robot1;
+        new Robot();
 
 
     }
