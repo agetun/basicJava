@@ -36,6 +36,9 @@ public class EnterPerson {
         System.out.println(person1);
         System.out.println(person2);
 
+        person1.greeting();
+        person2.greeting();
+
 
 
 

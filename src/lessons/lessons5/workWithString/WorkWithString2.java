@@ -4,10 +4,12 @@ public class WorkWithString2 {
 
     public static void main(String[] args) {
 
-        String text = "Это текст для проверки работы методов типа String";
+        String text = "     Это текст для метод проверки работы методов типа String      ";
 
         StringMethodsTest(text);
+
     }
+
 
     public static void StringMethodsTest(String text){
 

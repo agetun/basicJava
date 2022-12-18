@@ -7,6 +7,7 @@ public class Human {
     String town;
 
     public void greeting(){
+
         System.out.println("Hello! My name is - " + name);
     }
 

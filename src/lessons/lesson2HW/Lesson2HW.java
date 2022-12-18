@@ -1,8 +1,6 @@
+package lessons.lesson2HW;
 
-
-package lessons.lesson2;
-
-public class Lesson2InputFromKeyboard {
+public class Lesson2HW {
 
     public static void main(String[] args) {
 
@@ -68,7 +66,5 @@ public class Lesson2InputFromKeyboard {
 
 
     }
-
-
 
 }
