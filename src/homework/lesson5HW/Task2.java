@@ -1,6 +1,4 @@
-package homework.lesson5;
-
-import javax.swing.text.StringContent;
+package homework.lesson5HW;
 
 public class Task2 {
 

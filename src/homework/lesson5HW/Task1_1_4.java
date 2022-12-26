@@ -1,4 +1,4 @@
-package homework.lesson5;
+package homework.lesson5HW;
 
 public class Task1_1_4 {
 

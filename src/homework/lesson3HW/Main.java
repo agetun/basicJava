@@ -1,4 +1,4 @@
-package homework.lesson3;
+package homework.lesson3HW;
 
 public class Main {
 
