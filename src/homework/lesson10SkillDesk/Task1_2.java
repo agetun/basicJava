@@ -13,10 +13,10 @@ public class Task1_2 {
 
     public static void canBuy(boolean Edeka, boolean Rewe){
         if (Edeka == true || Rewe == true){
-            System.out.println("true");
+            System.out.println("True");
         }
         else if (Edeka == false || Rewe == false) {
-            System.out.println("false");
+            System.out.println("False");
         }
 
 
