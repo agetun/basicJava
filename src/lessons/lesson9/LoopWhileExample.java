@@ -11,7 +11,7 @@ public class LoopWhileExample {
         int x;
         int y;
 
-        boolean condition = true;
+        boolean condition = true; //это чтобы был вечный цикл
 
 
         while (condition) {
