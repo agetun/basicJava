@@ -18,7 +18,7 @@ public class ArrayTask {
 
         String[] stringArray01 = Arrays.copyOfRange(stringArray,0,2);
 
-        System.out.println(Arrays.toString(stringArray01));
+        System.out.print(Arrays.toString(stringArray01));
 
         String[] stringArray34 = Arrays.copyOfRange(stringArray,3,5);
 
